@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v18_static/helloworld/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-12  -I/Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v18_static/helloworld/headers  -std=c++11 -O3 -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -o CMakeFiles/helloworld.dir/src/Static.cpp.o -c /Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v18_static/helloworld/src/Static.cpp",
+  "file": "/Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v18_static/helloworld/src/Static.cpp"
+},
+{
+  "directory": "/Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v18_static/helloworld/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-12  -I/Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v18_static/helloworld/headers  -std=c++11 -O3 -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -o CMakeFiles/helloworld.dir/src/main.cpp.o -c /Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v18_static/helloworld/src/main.cpp",
+  "file": "/Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v18_static/helloworld/src/main.cpp"
+}
+]

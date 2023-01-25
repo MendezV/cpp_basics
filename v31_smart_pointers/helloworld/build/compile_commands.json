@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v31_smart_pointers/helloworld/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-12    -std=c++11 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -o CMakeFiles/helloworld.dir/src/main.cpp.o -c /Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v31_smart_pointers/helloworld/src/main.cpp",
+  "file": "/Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v31_smart_pointers/helloworld/src/main.cpp"
+}
+]

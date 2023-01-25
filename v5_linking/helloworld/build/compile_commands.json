@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v4_linking/helloworld/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-12    -Wall -Werror -std=c++11 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -o CMakeFiles/helloworld.dir/src/Log.cpp.o -c /Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v4_linking/helloworld/src/Log.cpp",
+  "file": "/Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v4_linking/helloworld/src/Log.cpp"
+},
+{
+  "directory": "/Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v4_linking/helloworld/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-12    -Wall -Werror -std=c++11 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -o CMakeFiles/helloworld.dir/src/main.cpp.o -c /Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v4_linking/helloworld/src/main.cpp",
+  "file": "/Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v4_linking/helloworld/src/main.cpp"
+}
+]

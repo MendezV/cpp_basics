@@ -1,0 +1,22 @@
+why cpp? fast code that performs well and controlls hardware directly in a very precise way
+
+cpp is a compiled language, translate human readable into machine assembly code. 
+
+c# and java are interpreted, the translation happens on runtime via a virtual machine.
+
+book translation analogy
+
+once compiled, the code runs in the platform in which it compiled without the need for further translation 
+
+native does not equate to fast, cpp can be slower, need good code
+
+structure 
+	- basics
+	- performance
+	- memory, pointers
+	- custom allocators, smart pointers, move schematics
+	- templates, use them properly
+	- macros
+	- own data structures
+	- low level optimization, compiler intrinsics in assembly, math in sse
+	

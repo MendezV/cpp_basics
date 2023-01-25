@@ -1,0 +1,5 @@
+create dev/src and dev/include
+then fill those in with files
+use CMakeLists.txt to generate the setup
+use VS code to configure and build the cmake project
+

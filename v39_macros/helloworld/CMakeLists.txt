@@ -1,0 +1,12 @@
+cmake_minimum_required (VERSION 3.0.0)
+
+project (helloworld)
+
+# the lines below define variables 
+set (CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -D TEST=1 -Werror -std=c++11") #defining a preprocessor no spaces!
+# set (CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -D _TEST -Werror -std=c++11") #defining a preprocessor 
+set (source_dir "${PROJECT_SOURCE_DIR}/src/")
+
+file (GLOB source_files "${source_dir}/*.cpp")
+
+add_executable (helloworld ${source_files})

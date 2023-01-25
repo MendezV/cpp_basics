@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v22_Inheritance/helloworld/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-12  -I/Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v22_Inheritance/helloworld/headers  -Wall -Werror -std=c++11 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -o CMakeFiles/helloworld.dir/src/log.cpp.o -c /Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v22_Inheritance/helloworld/src/log.cpp",
+  "file": "/Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v22_Inheritance/helloworld/src/log.cpp"
+},
+{
+  "directory": "/Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v22_Inheritance/helloworld/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-12  -I/Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v22_Inheritance/helloworld/headers  -Wall -Werror -std=c++11 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -o CMakeFiles/helloworld.dir/src/main.cpp.o -c /Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v22_Inheritance/helloworld/src/main.cpp",
+  "file": "/Users/juanmendezvalderrama/Documents/learning_cpp/cpp_basics/v22_Inheritance/helloworld/src/main.cpp"
+}
+]
